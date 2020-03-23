@@ -48,8 +48,8 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "CNCF"
-url = "https://cncf.io"
+name = "ABCSTACK ｜ CloudNative Accelerator"
+url = "https://abcstack.io"
 weight = 2
 
 [[menu.main]]
